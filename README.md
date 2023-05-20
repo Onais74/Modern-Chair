@@ -1,2 +1,2 @@
 # Modern-Chair
- A modern chair that is availablein various colors
+ A modern chair that is available in various colors.
